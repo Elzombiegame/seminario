@@ -1,0 +1,15 @@
+body{
+    background-color: #C2F7C5;
+    height: 45vw;
+}
+.hojas{
+    background-color: #6FF777;
+    max-width: 50%;
+    min-height: 50%;
+    max-width: 70%;
+    max-height: 70%;
+}
+.pajaro{
+    position: absolute;
+    max-width: 7%;
+}
