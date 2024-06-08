@@ -1,0 +1,11 @@
+<?php
+include_once("shared/header.php");
+?>
+<body>
+<?php
+include_once("shared/contend.php");
+?>
+</body>
+<?php
+include_once("shared/footer.php");
+?>
