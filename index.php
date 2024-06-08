@@ -1,5 +1,6 @@
 <?php
 include_once("shared/header.php");
+require("private/database.php");
 ?>
 <body>
 <?php

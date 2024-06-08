@@ -1,15 +1,24 @@
 body{
+    
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: fixed;
     background-color: #C2F7C5;
-    height: 45vw;
+    height: 100%;
+    width: 100%;
 }
 .hojas{
     background-color: #6FF777;
     max-width: 50%;
-    min-height: 50%;
-    max-width: 70%;
-    max-height: 70%;
+    min-height: 80%;
+    max-width: 100%;
+    margin: 5%;
+    max-height: 100%;
 }
 .pajaro{
     position: absolute;
     max-width: 7%;
+    margin: 5%;
 }
